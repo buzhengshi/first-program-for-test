@@ -10,4 +10,6 @@ class test():
 te=test('掌扇三')
 print(te.na)
 print(1)
+print(2)
+
 		
